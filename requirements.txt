@@ -1,0 +1,4 @@
+# FinVault Dependencies
+# Pure Python & Raw SQL Digital Wallet Architecture
+streamlit>=1.35.0
+pandas>=2.2.0
